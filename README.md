@@ -21,7 +21,7 @@ I'm a Java developer and the owner of the Minecraft server Hectus.
 
 ## Contact
 
-- Discord (preferred): `altpg`
+- Discord (preferred): `marcpg1905`
 - E-mail: [founder@hectus.net](mailto:founder@hectus.net) / [marcgriepenkerl8@gmail.com](mailto:marcgriepenkerl8@gmail.com)
 
 Feel free to reach out if you have any questions or would like to collaborate on any projects!
