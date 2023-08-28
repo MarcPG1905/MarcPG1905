@@ -2,16 +2,11 @@
 
 I'm a Low-Level developer and the owner of [PegOS](https://github.com/Peg-OS).
 
-## Projects
+## Current Projects
 
 - [**PegOS**](https://github.com/Peg-OS) - A custom operating system that aims to support almost all files and have max compatibility with even including iPhones and Macs
 - **PegBoot** - Bootlaoder for PegOS
 - **BotPG** - New and better version of the old BotPG
-Archived:
-- [**HectaLib**](https://github.com/HectusNet/HectaLib) - A Java library that aims to be very minimalistic but still very powerful.
-- **BlockBattles** - A trending Minecraft game mode.
-- [**Hectus Client**](https://github.com/HectusNet/Hectus-Client) - A Minecraft client.
-- **Sculk Shopping** - Another Minecraft game mode.
 
 ## Programming Languages
 
