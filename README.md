@@ -19,6 +19,6 @@ I'm a Low-Level developer and the owner of [PegOS](https://github.com/Peg-OS).
 ## Contact
 
 - Discord: `marcpg1905`
-- E-mail: [contact@marcpg.dev](mailto:contact@marcpg.dev)
+- E-mail: [contact@marcpg.dev](mailto:marcpg@pegos.org)
 
 Feel free to reach out if you have any questions or would like to collaborate on any projects!
