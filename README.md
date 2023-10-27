@@ -4,21 +4,22 @@ I'm a Low-Level developer and the owner of [PegOS](https://github.com/Peg-OS).
 
 ## Current Projects
 
-- [**PegOS**](https://github.com/Peg-OS) - A custom operating system that aims to support almost all files and have max compatibility with even including iPhones and Macs
+- [**PegOS**](https://github.com/Peg-OS) - An operating system with a unique approach and very high compatibility 
 - **PegBoot** - Bootlaoder for PegOS
-- **BotPG** - New and better version of the old BotPG
+- **BotPG v2** - New and better version of the old BotPG
 
 ## Programming Languages
 
+- **Rust**: My main language
 - **Assembly**: x86_64, ARM, IA-64 and probably some other's that are similar.
-- **Rust**: Main language after assembly
-- **C/C++**
+- **C/C++**: Pretty decent at it.
 - **C#**: Only a little
-- **Python**: Some experience.
+- **Python**: Some experience
+- **Java/Kotlin**: My ex-main languages. Very experienced at them.
 
 ## Contact
 
 - Discord: `marcpg1905`
-- E-mail: [contact@marcpg.dev](mailto:marcpg@pegos.org)
+- E-mail: [marcpg@pegos.org](mailto:marcpg@pegos.org)
 
 Feel free to reach out if you have any questions or would like to collaborate on any projects!
