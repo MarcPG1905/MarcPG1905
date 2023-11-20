@@ -5,7 +5,7 @@ I'm a Low-Level developer and the owner of [PegOS](https://github.com/Peg-OS).
 ## Current Projects
 
 - [**PegOS**](https://github.com/Peg-OS) - An operating system with a unique approach and very high compatibility 
-- **PegBoot** - Bootlaoder for PegOS
+- **PegBoot** - Bootloader for PegOS
 - **BotPG v2** - New and better version of the old BotPG
 
 ## Programming Languages
