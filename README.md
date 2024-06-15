@@ -8,7 +8,7 @@ I'm a developer with passion and the owner of some projects, like [Hectus](https
 - **Invade** - A unique game mode for the Hectus Network.
 - **LibPG** - A library with a wide range of utilities, such as Time, Formatting, Formulars, etc.
 - **BotPG v2** - New and better version of the old BotPG.
-- **Wizard Duels** - Plugin for another Minecraft server.
+- **BlockBattles** - Duel your friends in a chess-like Minecraft game mode.
 
 ## Programming Languages
 
