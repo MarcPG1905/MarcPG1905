@@ -4,15 +4,14 @@ I'm a developer with passion and the owner of some projects, like [Hectus](https
 
 ## Current Projects
 
-- **PooperMC** - An all-in-one Minecraft plugin for any server.
-- **Invade** - A unique game mode for the Hectus Network.
-- **LibPG** - A library with a wide range of utilities, such as Time, Formatting, Formulars, etc.
-- **BotPG v2** - New and better version of the old BotPG.
-- **NeoBB** - Duel your friends in a chess-like Minecraft game mode.
+- **NeoBB** - Open source BlockBattles plugin for the Hectus Network.
+- **Dreath** - A realistic survival gamr written in Kotlin and entirely from scratch without any game engin
+- **KtLibPG** - A Kotlin library with a wide range of utilities.
+- **BotPG v2** - Discord bot for personal Discord servers.
 
 ## Programming Languages
 
-- **Kotlin**: my most used language which I fell in love with.
+- **Kotlin**: My most used language which I fell in love with.
 - **Java**: The language I'm most experienced with.
 - **Assembly**: x86_64, ARM, IA-64 and likely some other's that are similar.
 - **C/C++**: Pretty decent at it.
