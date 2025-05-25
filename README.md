@@ -8,12 +8,12 @@ I'm a developer with passion and the owner of some projects, like [Hectus](https
 - **Invade** - A unique game mode for the Hectus Network.
 - **LibPG** - A library with a wide range of utilities, such as Time, Formatting, Formulars, etc.
 - **BotPG v2** - New and better version of the old BotPG.
-- **BlockBattles** - Duel your friends in a chess-like Minecraft game mode.
+- **NeoBB** - Duel your friends in a chess-like Minecraft game mode.
 
 ## Programming Languages
 
-- **Java**: My most used language which I'm most experienced with.
-- **Rust**: My other main language, which I'm very familiar with.
+- **Kotlin**: my most used language which I fell in love with.
+- **Java**: The language I'm most experienced with.
 - **Assembly**: x86_64, ARM, IA-64 and likely some other's that are similar.
 - **C/C++**: Pretty decent at it.
 
