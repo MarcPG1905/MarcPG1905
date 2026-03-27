@@ -4,7 +4,8 @@ I'm a developer with passion and the owner of some projects, like [Hectus](https
 
 ## Current Projects
 
-- **NeoBB** - Open source BlockBattles plugin for the Hectus Network.
+- **PooperMC** - A plugin for Minecraft which acts as a platform for custom modules, allowing you to code once and run everywhere.
+- **Pillar Peril** - A minecraft minigame.
 - **Dreath** - A realistic survival game written in Kotlin and entirely from scratch without any game engine.
 - **KtLibPG** - A Kotlin library with a wide range of utilities.
 - **BotPG v2** - Discord bot for personal Discord servers.
