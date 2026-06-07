@@ -1,6 +1,7 @@
 # Hey! 👋
 
-I'm a developer with passion and the owner of some projects, like [Hectus](https://github.com/HectusNet) and [PooperMC](https://github.com/MarcPG1905/PooperMC).
+I'm a developer with passion and the owner of some projects.
+Almost everything I do is open-source, as I'm a believer in privacy, knowing what programs you're running, and being able to freely contribute to / create your own versions of software.
 
 ## Current Projects
 
@@ -14,12 +15,13 @@ I'm a developer with passion and the owner of some projects, like [Hectus](https
 
 - **Kotlin**: My most used language which I fell in love with.
 - **Java**: The language I'm most experienced with.
+- **TypeScript**: Mostly learnt it because I had to, but I do like it a lot.
 - **Assembly**: x86_64, ARM, IA-64 and likely some other's that are similar.
 - **C/C++**: Pretty decent at it.
 
 ## Contact
 
 - Discord: `@marcpg1905`
-- E-mail: [me@marcpg.com](mailto:me@marcpg.com)
+- E-mail: [marcpg@proton.me](mailto:marcpg@proton.me)
 
 Feel free to reach out if you have any questions or would like to collaborate on any projects!
